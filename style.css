@@ -1,0 +1,20 @@
+h2{
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+p{
+    color: green;
+}
+
+#elemento1{
+    color: red;
+}
+
+#elemento2{
+    color: blue;
+}
+
+#elemento3{
+    color: violet;
+}
